@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+.FundoPage {
+    background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/92/49/Eu58yt.png);
+    display: flex;
+    justify-content: center;
+    background-attachment: fixed;
+    height: auto;
+    max-width: 1920px;
+    margin: auto;
+}
+
+#Bar {
+    background-color: black;
+    display: flex;
+    list-style-type: none;
+    padding-bottom: 30px;
+    justify-content: center;
+    max-width: 1920px;
+}
+
+.Bottom {
+    text-align: left;
+    line-height: 15px;
+    font-size: 1.2pc;
+    float: left;
+    display: block;
+    padding: 8px;
+    margin-right: 20px;
+    color: white;
+    padding-top: 8px;
+    transform: translateY(18px);
+}
+
+#Bar a {
+    text-decoration: none;
+    color: white;
+}
+
+
+#Page {
+    float: right;
+    background-color: ghostwhite;
+    width: 100%;
+    height: 100%;
+    margin-top: 0;
+    max-width: 1300px;
+    margin: auto;
+    padding-bottom: 40px;
+}
+
+#Fachada {
+    height: 10cm;
+    border-style: ridge;
+    border-color: darkred;
+    border-radius: inherit;
+    background: url('../Img/Fachada.png');
+    background-size: cover;
+}
+
+#Labels {
+    font-size: 40px;
+    color: white;
+    text-shadow: 0px 0px 5px black;
+    text-align: center;
+    margin: 12%;
+}
+
+#Trio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 1cm;
+    padding-top: 1cm;
+}
+
+#Trio img {
+    width: 10cm;
+}
+
+.Pimg {
+    text-align: center;
+}
+
+#Labels label {
+    font-family: fantasy;
+}
+
+#TxtMap h4 {
+    text-align: center;
+    font-size: 13px;
+}
+
+#TxtMap h5 {
+    text-align: center;
+
+}

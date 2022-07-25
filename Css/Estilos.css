@@ -1,0 +1,246 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+.FundoPage {
+    background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/92/49/Eu58yt.png);
+    display: flex;
+    justify-content: center;
+    background-attachment: fixed;
+    height: auto;
+    max-width: 1920px;
+    margin: auto;
+}
+
+#Bar {
+    background-color: black;
+    display: flex;
+    list-style-type: none;
+    padding-bottom: 30px;
+    justify-content: center;
+    max-width: 1920px;
+}
+
+.Bottom {
+    text-align: left;
+    line-height: 15px;
+    font-size: 1.2pc;
+    float: left;
+    display: block;
+    padding: 8px;
+    margin-right: 20px;
+    color: white;
+    padding-top: 8px;
+    transform: translateY(18px);
+}
+
+#Bar a {
+    text-decoration-line: none;
+    color: white;
+}
+
+
+#Page {
+    float: right;
+    background-color: ghostwhite;
+    width: 100%;
+    height: 100%;
+    margin-top: 0;
+    max-width: 1300px;
+    margin: auto;
+    padding-bottom: 40px;
+}
+
+#Fachada {
+    height: 10cm;
+    border-style: ridge;
+    border-color: darkred;
+    border-radius: inherit;
+    background: url('../Img/Fachada.png');
+    background-size: cover;
+}
+
+#Labels {
+    font-size: 40px;
+    color: white;
+    text-shadow: 0px 0px 5px black;
+    text-align: center;
+    margin-top: 10%;
+}
+
+#Labels label {
+    font-family: fantasy;
+}
+
+p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#Aviso {
+    margin: 1cm;
+    display: flex;
+    justify-content: center;
+    border-style: groove;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#Aviso h1 {
+    color: rgba(233, 30, 99, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+#Aviso h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    padding-left: 30px;
+    text-align: center;
+}
+
+#AnE {
+    background-color: rgb(58 58 58);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin: 0;
+}
+
+#GM h1 {
+    background: url(../Img/FotoGremio.png);
+    background-size: cover;
+    height: 15cm;
+    border-style: ridge;
+    border-color: white;
+    border-radius: inherit;
+}
+
+#GM p {
+    text-align: center;
+    font-size: 20px;
+}
+
+#GM2 h1 {
+    color: rgba(233, 30, 99, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    margin: 1cm;
+    margin-bottom: 0;
+    border-top-style: groove;
+    border-bottom-style: groove;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#GM2 p {
+    text-align: center;
+    font-size: 20px;
+}
+
+#GM2 h2 {
+    background: url(../Img/GremioSimba.png);
+    background-size: cover;
+    height: 15cm;
+    border-style: ridge;
+    border-color: white;
+    border-radius: inherit;
+}
+
+#Ac h1 {
+    margin: 1cm;
+    margin-bottom: 0;
+}
+
+#Ac p {
+    text-align: center;
+    font-size: 20px;
+}
+
+#Ac h2 {
+    background: url(../Img/Acolhimento.JPG);
+    background-size: cover;
+    height: 15cm;
+    border-style: ridge;
+    border-color: white;
+    border-radius: inherit;
+}
+
+#Pe h1 {
+    color: #00ff00;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    margin: 1cm;
+    margin-bottom: 0;
+    border-top-style: groove;
+    border-bottom-style: groove;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#Pe p {
+    text-align: center;
+    font-size: 20px;
+}
+
+#Pe h2 {
+    background: url(../Img/Planejamento.png);
+    background-size: cover;
+    height: 16cm;
+    border-style: ridge;
+    border-color: white;
+    border-radius: inherit;
+}
+
+#Adc {
+    background-color: rgb(58 58 58);
+    margin-top: 1cm;
+    display: block;
+    max-width: 1300px;
+}
+
+#Adc h1 {
+    text-align: center;
+    color: white;
+    padding: 15px;
+    margin: 0;
+}
+
+#Ca {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 1cm;
+    padding-top: 0;
+}
+
+#Map {
+    display: flex;
+    justify-content: center;
+    margin: 1cm;
+    margin-bottom: 0;
+    border-top-style: groove;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+#Map iframe {
+    padding-top: 30px;
+}
+
+#TxtMap h4 {
+    text-align: center;
+    font-size: 13px;
+}
+
+#TxtMap h5 {
+    text-align: center;
+
+}

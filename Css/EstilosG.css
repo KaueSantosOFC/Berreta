@@ -16,7 +16,6 @@
 
 #Bar {
     background-color: black;
-    display: flex;
     list-style-type: none;
     padding-bottom: 30px;
     justify-content: center;

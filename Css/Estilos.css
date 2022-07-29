@@ -109,13 +109,9 @@ p {
     margin: 0;
 }
 
-#GM h1 {
-    background: url(../Img/FotoGremio.png);
-    background-size: cover;
-    height: 15cm;
-    border-style: ridge;
-    border-color: white;
-    border-radius: inherit;
+#GM img {
+    max-width: 100%;
+    height: auto;
 }
 
 #GM p {
@@ -142,13 +138,9 @@ p {
     font-size: 20px;
 }
 
-#GM2 h2 {
-    background: url(../Img/GremioSimba.png);
-    background-size: cover;
-    height: 15cm;
-    border-style: ridge;
-    border-color: white;
-    border-radius: inherit;
+#GM2 img {
+    max-width: 100%;
+    height: auto;
 }
 
 #Ac h1 {
@@ -161,13 +153,9 @@ p {
     font-size: 20px;
 }
 
-#Ac h2 {
-    background: url(../Img/Acolhimento.JPG);
-    background-size: cover;
-    height: 15cm;
-    border-style: ridge;
-    border-color: white;
-    border-radius: inherit;
+#Ac img {
+    max-width: 100%;
+    height: auto;
 }
 
 #Pe h1 {
@@ -189,13 +177,9 @@ p {
     font-size: 20px;
 }
 
-#Pe h2 {
-    background: url(../Img/Planejamento.png);
-    background-size: cover;
-    height: 16cm;
-    border-style: ridge;
-    border-color: white;
-    border-radius: inherit;
+#Pe img {
+    max-width: 100%;
+    height: auto;
 }
 
 #Adc {

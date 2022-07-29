@@ -79,6 +79,8 @@
 
 #Trio img {
     width: 10cm;
+    max-width: 100%;
+    height: 380px;
 }
 
 .Pimg {

@@ -1,0 +1,17 @@
+#Trio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 1cm;
+    padding-top: 1cm;
+}
+
+#Trio img {
+    width: 10cm;
+    max-width: 100%;
+    height: auto;
+}
+
+.Pimg {
+    text-align: center;
+}

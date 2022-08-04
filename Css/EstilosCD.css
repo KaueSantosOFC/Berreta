@@ -15,3 +15,27 @@
 .Pimg {
     text-align: center;
 }
+
+#CNT {
+    background-color: rgb(58 58 58);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin: 1cm;
+}
+
+#LCT {
+    background-color: rgb(58 58 58);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin: 1cm;
+}
+
+#CHT {
+    background-color: rgb(58 58 58);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin: 1cm;
+}

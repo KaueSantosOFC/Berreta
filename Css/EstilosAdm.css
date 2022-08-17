@@ -16,3 +16,23 @@
     text-align: center;
     padding-bottom: 10px;
 }
+
+#Details{
+    background-color: rgb(58 58 58);
+        color: white;
+        text-align: center;
+        padding: 15px;
+        margin-bottom: 1cm;
+}
+#Details summary{
+    font-size: 20px;
+}
+
+#Details p{
+    padding: 5px;
+}
+#Details ul{
+    display: inline-block;
+    text-align: left;
+    list-style-position: inside;
+}

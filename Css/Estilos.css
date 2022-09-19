@@ -235,3 +235,11 @@ p {
     text-align: center;
 
 }
+#Be h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #459ad6;;
+    text-align: center;
+        padding: 15px;
+        font-size: 25px;
+        margin: 0;
+}
